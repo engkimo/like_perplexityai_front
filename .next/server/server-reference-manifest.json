@@ -1,0 +1,22 @@
+{
+  "node": {
+    "a8ed74e4623100720d608203111449746cfc0442": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fryousuke%2Flike_perplexityai%2Fweb%2Fapp%2Faction.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2FUsers%2Fryousuke%2Flike_perplexityai%2Fweb%2Fnode_modules%2Fai%2Frsc%2Fdist%2Frsc-server.mjs%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "b521eb735db1932b4b53160e146fff6850ebefc7": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fryousuke%2Flike_perplexityai%2Fweb%2Fapp%2Faction.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22%2FUsers%2Fryousuke%2Flike_perplexityai%2Fweb%2Fnode_modules%2Fai%2Frsc%2Fdist%2Frsc-server.mjs%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "yI/rvPOTt4CPkQHqykM9PZPLFUiWXPD0RUQN9Yybhtg="
+}
